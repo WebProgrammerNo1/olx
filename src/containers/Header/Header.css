@@ -1,0 +1,30 @@
+
+
+.headers{
+    background: #002f34;
+}
+
+.logo {
+    height: 70px;
+}
+.Btn{
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #002f34;
+}
+
+.Bt2 {
+    border-radius: 8px;
+    padding: 13px 6px;
+    color: #002f34;
+    font-weight: 700;
+    outline: none;
+    border: none;
+}
+
+.Bt2 span:hover{
+    background: #002f34;
+    color: white;
+}
+

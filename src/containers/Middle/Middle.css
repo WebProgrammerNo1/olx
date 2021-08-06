@@ -1,0 +1,59 @@
+body {
+    color: #002f34;
+    background: #f2f4f5;
+}
+
+.input-group {
+    padding: 40px 0 !important;
+}
+
+.search {
+    position: absolute;
+    left: 105px;
+    top: 65px;
+    font-size: 25px;
+    cursor: pointer;
+    font-weight: 100 !important;
+}
+
+.inputs{
+    outline: none;
+    border: none;
+    width: 621px;
+    padding: 8px 8px 8px 50px;
+    line-height: 56px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #002f34;
+}
+.inputlak {
+    outline: none;
+    text-align: center;
+    width: 300px;
+}
+
+.input-group-append button {
+    outline: none !important;
+    border: none !important;
+    padding: 30px !important;
+    font-size: 16px;
+    font-weight: 500;
+    color: #002f34;
+    background-color: #fff !important;
+    width: 180px;
+}
+
+.map{
+    position: absolute;
+    right: 520px;
+    top: 63px;
+    font-size: 25px;
+
+}
+
+.search2{
+    position: absolute;
+    top: 63px;
+    font-size: 25px;
+    right: 113px;
+}
