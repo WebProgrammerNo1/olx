@@ -4,10 +4,12 @@
     flex-wrap: wrap;
     padding-top: 60px;
   }
-
+  
   .categories a {
     text-decoration: none;
     color: #000;
+    max-width: 137px;
+    padding: 0 6px;
   }
   
   .category {
